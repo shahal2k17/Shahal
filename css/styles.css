@@ -1,11 +1,21 @@
 body{text-align:center}
 
-.top-container{position:relative;
-padding-top:100px;}
+.top-container
+{
+  background-color: #EAF6F6;
+  position:relative;
+  padding-top:100px;
+}
 
-.top-cloud{position:absolute;
-right:300px;}
+.top-cloud
+{
+  position:absolute;
+  right:300px;
+}
 
-.bottom-cloud{position:absolute;
-left:300px;
-bottom:300px;}
+.bottom-cloud
+{
+  position:absolute;
+  left:300px;
+  bottom:300px;
+}
