@@ -1,7 +1,8 @@
 body
 {
   font-family: 'Merriweather', serif;
-  text-align:center
+  text-align:center;
+  margin:0px;
 }
 
 h1
