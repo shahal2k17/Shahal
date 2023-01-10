@@ -9,7 +9,7 @@ h1
 {
   font-size:5.625rem;
   font-family: 'Sacramento', cursive;
-  margin:50px;
+  margin:50px auto 0px auto;
 }
   
 h2
